@@ -4,9 +4,78 @@
     border: 0;
     text-decoration: none;
 }
+
 ul{
     list-style-type: none;
 }
+
 li{
     display: inline-block;
+    margin: 20px;
+}
+
+body{
+    background: url(temple.jpg);
+   
+}
+
+.div1{
+     height: 250px;
+    width: 25%;
+    text-align: center;
+    background-color: aliceblue;
+    margin-left: 10%;
+    padding: 20px;
+    margin-top: 200px;
+    }
+
+.div2{
+    height: 250px;
+    width: 25%;
+    text-align: center;
+    background-color: aliceblue;
+    margin-left: 10%;
+    padding: 20px;
+    margin-top: 200px;
+    /* position: relative;bottom: 290px; */
+}
+.div3{
+    height: 250px;
+    width: 25%;
+    text-align: center;
+    background-color: aliceblue;
+    margin-left: 10%;
+    padding: 20px;
+    margin-top: 200px;
+    margin-right: 10% ;
+    /* position: relative;bottom: 580px; */
+   
+}
+.intro{
+   background-color: azure;
+   height: 80px;
+   margin-left: 20px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.parent{
+ display: flex;
+}
+
+.img{
+    margin-left: 5%;
+    height: 26px;
+    width: 26px;
+    margin-top: 30px;
+}
+.home{
+    margin-left: 7%;
+  margin-top: 32px;
+}
+.time{
+    height: 50px;
+    width: 50px;
+}
+.down{
+    margin-top: 10%;
 }
