@@ -1,7 +1,7 @@
 # gallery
 html gallery project template.
 
-# Funmilola and Auwal Isa html gallery tempplate
+# Funmilola and Auwal Isa html gallery template
 
 ## Description
 A project that gives the numbers of days you have lived on earth.
@@ -10,7 +10,7 @@ A project that gives the numbers of days you have lived on earth.
 Name and age in years will be required to fill this form and all field must be inputed. 
 
 # Project screenshoot
-![This is an alt text](/screenshoot-gallery.PNG "This is a sample logo")
+![This is an alt text](/screenshot-gallery.PNG "This is a sample logo")
 
 ## Link
 (https://github.com/Oluwafunmilol/gallery.git)
