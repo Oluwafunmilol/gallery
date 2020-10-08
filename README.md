@@ -4,10 +4,10 @@ html gallery project template.
 # Funmilola and Auwal Isa html gallery template
 
 ## Description
-A project that gives the numbers of days you have lived on earth.
+A gallery template for any web project.
 
 ## Instruction
-Name and age in years will be required to fill this form and all field must be inputed. 
+switch through the navigation bars to view the galleries.
 
 # Project screenshoot
 ![This is an alt text](/img.PNG "This is a sample logo")
