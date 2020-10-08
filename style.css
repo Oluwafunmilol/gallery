@@ -22,7 +22,7 @@ body{
 .div1{
      height: 250px;
     width: 25%;
-    text-align: center;
+    text-align: left;
     background-color: aliceblue;
     margin-left: 10%;
     padding: 20px;
@@ -32,7 +32,7 @@ body{
 .div2{
     height: 250px;
     width: 25%;
-    text-align: center;
+    text-align: left;
     background-color: aliceblue;
     margin-left: 10%;
     padding: 20px;
@@ -42,7 +42,7 @@ body{
 .div3{
     height: 250px;
     width: 25%;
-    text-align: center;
+    text-align: left;
     background-color: aliceblue;
     margin-left: 10%;
     padding: 20px;
@@ -75,7 +75,15 @@ body{
 .time{
     height: 50px;
     width: 50px;
+    padding-left: 80px;
 }
 .down{
     margin-top: 10%;
+}
+.home2{
+    color: blue;
+height: 100%;
+width: 90px;
+background-color: tomato;
+
 }
