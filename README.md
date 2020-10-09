@@ -35,10 +35,10 @@ Auwal Isa
 Ideas, other features, and issues can be raised.
 
 # Acknowledgments
-github: @Gwin
-github: @chiomy
-Twitter:@hub_mic
-Twitter: @HomeFrontStartup
+* github: @Gwin
+* github: @chiomy
+* Twitter:@hub_mic
+* Twitter: @HomeFrontStartup
 
 
 
