@@ -20,7 +20,7 @@ switch through the navigation bars to view the galleries.
 * CSS
 
 # Live Demo
-This is alive demo(https://raw.githack.comhttps//github.com/Oluwafunmilol/gallery.git)
+This is alive demo(https://raw.githack.com/Oluwafunmilol/gallery/css-branch/index.html)
 
 # Author
 Olukowajo Funmilola Esther and Auwal Isa
