@@ -23,8 +23,8 @@ switch through the navigation bars to view the galleries.
 This is alive demo(https://raw.githack.comhttps//github.com/Oluwafunmilol/gallery.git)
 
 # Author
-Olukowajo Funmilola Esther
-Auwal Isa
+* Olukowajo Funmilola Esther
+* Auwal Isa
 
 
 * Github: @Oluwafunmilol
