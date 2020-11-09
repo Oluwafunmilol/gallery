@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+    position: relative;bottom: 65px;
+    padding-left: 70px;
+ }
+
+li{
+    display: inline-block;
+    margin: 20px;
+}
+
+body{
+    background: url(./images/temple.jpg);
+    font-family: Times;
+   }
+
+.div1{
+     height: 300px;
+    width: 30%;
+    text-align: left;
+    background-color: aliceblue;
+    margin-left: 10%;
+    padding: 20px;
+    margin-top: 150px;
+    }
+
+.div2{
+    height:300px;
+    width: 30%;
+    text-align: left;
+    background-color: aliceblue;
+    margin-left: 5%;
+    padding: 20px;
+    margin-top: 150px;
+   }
+
+.div3{
+    height: 300px;
+    width: 30%;
+    text-align: left;
+    background-color: aliceblue;
+    margin-left: 5%;
+    padding: 20px;
+    margin-top: 150px;
+    margin-right: 10% ;
+    }
+
+.intro{
+   background-color: azure;
+   height:64px;
+   margin-left: 10%;
+  margin-top: 40px;
+  margin-right: 20px;
+  width: 80%;
+ 
+ }
+.parent{
+ display: flex;
+}
+
+.img{
+    margin-left: 2%;
+    height: 30px;
+    width: 26px;
+    margin-top: 15px;
+}
+
+.home{
+    display: inline-block;
+    padding-top: 19px;
+    margin-right: 20px;
+   }
+
+.time{
+    height: 50px;
+    width: 50px;
+    padding-left: 100px;
+}
+
+.down{
+    margin-top: 10%;
+}
+
+.home2{
+    color: blue;
+height: 42px;
+width: 9%;
+background-color:white;
+background-position: center;
+text-align: center;
+
+}
+
+.up{
+    font-size: 24px;
+    margin-right: 250px;
+}
+
+.logo{
+    margin-left: 38%;
+    margin-top: 15%;
+    margin-bottom: 5%;
+    }
+
+.img1{
+    background-color:  aliceblue;
+    padding-right: 20px;
+    margin: 1%;
+   }
+
+   .upper{
+       margin-left: 3px;
+   }
+   
