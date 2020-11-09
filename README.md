@@ -20,16 +20,19 @@ switch through the navigation bars to view the galleries.
 * CSS
 
 # Live Demo
-This is alive demo(https://raw.githack.comhttps//github.com/Oluwafunmilol/gallery.git)
+This is alive demo(https://raw.githack.com/Oluwafunmilol/gallery/css-branch/index.html)
 
 # Author
-* Olukowajo Funmilola Esther
-* Auwal Isa
+Olukowajo Funmilola Esther and Auwal Isa
 
 
 * Github: @Oluwafunmilol
 * twitter: @olukowajoF
 * Facebook: Esther Temitope Olukowajo
+* Github: @Auwalisa36
+* twitter: @Auuwal Isa
+* Facebook: Auwal Isa
+
 
 ## Contributing
 Ideas, other features, and issues can be raised.
