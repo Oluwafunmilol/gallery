@@ -10,7 +10,7 @@ A gallery template for any web project.
 switch through the navigation bars to view the galleries.
 
 # Project screenshoot
-![This is an alt text](./assets/images/img.PNG "This is a sample logo")
+![This is an alt text](/assets/images/img.PNG "This is a sample logo")
 
 ## Link
 (https://github.com/Oluwafunmilol/gallery.git)
